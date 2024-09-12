@@ -1,4 +1,4 @@
-from Database.DB import db
+from Database.mongoDB import db
 
 product_schema = {
     'validator': {
